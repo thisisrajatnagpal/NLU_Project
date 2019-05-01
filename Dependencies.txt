@@ -1,0 +1,8 @@
+List of Dependencies:
+
+1. Python 3.x+ 
+2. Tensorflow
+3. gensim
+4. nltk
+5. sklearn
+6. os
